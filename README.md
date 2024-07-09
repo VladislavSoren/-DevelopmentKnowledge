@@ -391,6 +391,7 @@ def get_value(obj: Stream):
 inst = HTTP()
 get_value(inst)
 ```
+
 Так же работает ввиду утиной типизации.  
 Но через `mypy` в виду расхождения типов по статике будет ошибка: `expected "Stream"`
 ---
