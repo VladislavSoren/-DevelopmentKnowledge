@@ -456,7 +456,7 @@ get_value(obj=HTTPStream(), size=100)
 
 ## Процессы/Потоки/Асинхронность
 https://tproger.ru/problems/what-is-the-difference-between-threads-and-processes  
-https://tproger.ru/translations/asynchronous-programming-in-python
+https://tproger.ru/translations/asynchronous-programming-in-python  
 `Процесс` — экземпляр программы во время выполнения, независимый объект,  
 которому выделены системные ресурсы (например, процессорное время и память).  
 Каждый процесс выполняется в отдельном адресном пространстве: один процесс не может получить доступ к переменным и структурам данных другого.  
